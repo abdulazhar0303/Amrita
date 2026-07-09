@@ -1,0 +1,122 @@
+A strong "Future Faculty Toolkit" sequence
+Instead of listing tools randomly, organize them into a workflow:
+Research: Semantic Scholar → ResearchRabbit → Elicit → Scispace
+Understand: NotebookLM
+Visualize: Napkin AI
+Create PPT: Gamma or Beautiful.ai
+Build Apps: Firebase Studio → Lovable → Bolt.new
+Develop: Cursor or Windsurf
+Automate: Pipedream
+Teach: Teachable Machine
+Create Videos: HeyGen + ElevenLabs
+Document Meetings: Otter.ai
+Presenting the tools as a complete teaching and research workflow will be much more impactful than showing them as isolated applications.
+Any 1hr task assign as faculty to complete for git 1hr task ai 1hr task using our content
+Yes. Since this is an FDP, faculty members should leave with something they have built, not just listened to. Here are practical 1-hour hands-on activities for each session.
+
+
+Git & GitHub Fundamentals Challenge
+Title
+"My First Academic Repository"
+Objective
+Each faculty member will create and manage their own GitHub repository for a course or research project.
+Tasks
+Task 1 (10 min): Create a GitHub Repository
+Repository name: AI-in-Education or <Department>-Course-Materials
+Add a README file.
+Task 2 (10 min): Clone the Repository
+Clone it to the local computer.
+Open it in VS Code.
+Task 3 (15 min): Create Academic Content
+ Create:
+LessonPlan.md
+Syllabus.md
+Resources.md
+Add basic content.
+Task 4 (10 min): Git Commands
+ Run:
+git status
+git add .
+git commit -m "Added lesson plan"
+git push
+Task 5 (10 min): Edit and Update
+ Modify LessonPlan.md and push a second commit.
+Task 6 (5 min): Reflection
+ View the commit history and explain how version control helps maintain academic materials.
+Learning Outcome
+Faculty understand repositories, commits, version history, and collaborative content management.
+
+AI-Powered Smart Faculty Challenge
+Title
+"Build Your AI Teaching Kit in 60 Minutes"
+Each faculty member creates resources for one topic from their own subject.
+Step 1 (10 min): Generate a Lesson Plan
+Use an AI assistant to create:
+Course Outcome
+Learning Objectives
+Teaching Method
+Activities
+
+Generate a Presentation
+Use Gamma to create a 10-slide lecture.
+
+Create Visuals
+Use Napkin AI to generate:
+Flowchart
+Process diagram
+Mind map
+
+Research Support
+Use NotebookLM, Elicit, or Consensus:
+Upload or find one research paper.
+Generate:
+Summary
+Key findings
+Discussion questions
+
+ Build a Mini Educational Tool
+Choose one:
+Firebase Studio
+Lovable
+Bolt.new
+Prompt:
+"Create a simple student attendance dashboard for my department."
+
+
+Each participant shares:
+AI-generated lesson plan
+Presentation
+Diagram
+Research summary
+Mini app prototype
+
+Bonus Activity 
+AI Product Development Sprint
+Challenge
+Each faculty team identifies one teaching problem.
+Examples:
+Attendance
+Internal marks
+Student feedback
+Laboratory booking
+Placement preparation
+They complete this canvas:
+Step
+Deliverable
+Problem
+Define the issue
+AI Solution
+Describe the proposed AI solution
+MVP
+List three core features
+AI Tool
+Which AI tools will be used?
+Repository
+Suggest a GitHub repository name
+Automation
+Describe one workflow that could be automated
+Impact
+Explain how it saves faculty time
+
+
+
